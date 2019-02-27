@@ -10,3 +10,6 @@ Here are the different commands that you can do here:
 3. git commit -m "Whatever you want to type", this comes after adding, it will commit your changes to the server
 4. git push, this comes after committing the changes, it will send it to the server and make your changes visible to me
 5. git log, this will print out all the changes that have been made by either you or me
+
+
+thanks bud yur the best
