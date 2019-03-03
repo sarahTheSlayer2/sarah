@@ -8,6 +8,9 @@ public class sunflower {
 		if (name.equals("Declan")) {
 			System.out.println("u suk");
 		}
+		else if (name.equals("Sarah")) {
+		System.out.println("You are awesome!");
+		}
 		else {
 		System.out.println("u r ok");
 		}
